@@ -1,4 +1,4 @@
-package com.evandev.fast_surface;
+package com.evandev.fast_density;
 
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModContainer;
@@ -6,8 +6,8 @@ import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 
 @Mod(Constants.MOD_ID)
-public class FastSurfaceRules {
-    public FastSurfaceRules(IEventBus modEventBus, ModContainer modContainer) {
+public class FastDensity {
+    public FastDensity(IEventBus modEventBus, ModContainer modContainer) {
         modEventBus.addListener(this::commonSetup);
     }
 

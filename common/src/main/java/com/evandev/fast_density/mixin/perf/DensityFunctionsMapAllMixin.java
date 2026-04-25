@@ -1,6 +1,6 @@
-package com.evandev.fast_surface.mixin.perf;
+package com.evandev.fast_density.mixin.perf;
 
-import com.evandev.fast_surface.perf.MapAllCache;
+import com.evandev.fast_density.perf.MapAllCache;
 import com.llamalad7.mixinextras.injector.wrapmethod.WrapMethod;
 import com.llamalad7.mixinextras.injector.wrapoperation.Operation;
 import net.minecraft.world.level.levelgen.DensityFunction;

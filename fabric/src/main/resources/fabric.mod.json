@@ -16,7 +16,7 @@
   "environment": "server",
   "entrypoints": {
     "main": [
-      "com.evandev.fast_surface.FastSurfaceRules"
+      "com.evandev.fast_density.FastDensity"
     ]
   },
   "mixins": [

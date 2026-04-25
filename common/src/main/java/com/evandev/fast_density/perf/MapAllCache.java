@@ -1,4 +1,4 @@
-package com.evandev.fast_surface.perf;
+package com.evandev.fast_density.perf;
 
 import net.minecraft.world.level.levelgen.DensityFunction;
 

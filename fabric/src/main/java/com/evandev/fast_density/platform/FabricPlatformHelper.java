@@ -1,6 +1,6 @@
-package com.evandev.fast_surface.platform;
+package com.evandev.fast_density.platform;
 
-import com.evandev.fast_surface.platform.services.IPlatformHelper;
+import com.evandev.fast_density.platform.services.IPlatformHelper;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.loader.api.FabricLoader;
 

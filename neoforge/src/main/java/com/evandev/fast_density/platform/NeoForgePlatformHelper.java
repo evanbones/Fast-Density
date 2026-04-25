@@ -1,6 +1,6 @@
-package com.evandev.fast_surface.platform;
+package com.evandev.fast_density.platform;
 
-import com.evandev.fast_surface.platform.services.IPlatformHelper;
+import com.evandev.fast_density.platform.services.IPlatformHelper;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.loading.FMLLoader;

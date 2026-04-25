@@ -1,7 +1,7 @@
-package com.evandev.fast_surface.platform;
+package com.evandev.fast_density.platform;
 
-import com.evandev.fast_surface.Constants;
-import com.evandev.fast_surface.platform.services.IPlatformHelper;
+import com.evandev.fast_density.Constants;
+import com.evandev.fast_density.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 
