@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.evandev.fast_surface.mixin",
+  "compatibilityLevel": "JAVA_18",
+  "mixins": [
+    "perf.DensityFunctionsMapAllMixin"
+  ],
+  "client": [
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+

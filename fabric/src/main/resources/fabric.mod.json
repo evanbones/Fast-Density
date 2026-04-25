@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "${mod_id}",
+  "version": "${version}",
+  "name": "${mod_name}",
+  "description": "${description}",
+  "authors": [
+    "${mod_author}"
+  ],
+  "contact": {
+    "homepage": "https://github.com/evanbones/Fast-Surface-Rules",
+    "sources": "https://github.com/evanbones/Fast-Surface-Rules"
+  },
+  "license": "${license}",
+  "icon": "${mod_id}.png",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "com.evandev.fast_surface.FastSurfaceRules"
+    ]
+  },
+  "mixins": [
+    "${mod_id}.mixins.json",
+    "${mod_id}.fabric.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21"
+  }
+}
